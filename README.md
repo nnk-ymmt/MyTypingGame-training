@@ -1,0 +1,2 @@
+# MyTypingGame-training
+ドットインストール　MyTypingGame
